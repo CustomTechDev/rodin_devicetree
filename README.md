@@ -1,4 +1,4 @@
-# Android device tree for alps mgvi_64_64only_armv82 (mgvi_64_64only_armv82)
+# Android device tree for codiname Rodin
 
 ```
 #
@@ -8,3 +8,4 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 ```
+# Tysm Twrpdtgen!
